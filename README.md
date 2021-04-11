@@ -16,7 +16,7 @@ Este projeto foi feito com o objetivo de ajudar uma empresa ficticia a encontrar
 This project was done with the objective of helping a fictitious company to find candidates who want to relocate to a data scientist area. In the project, transformations of resources (explanatory variables) were made in str format for integers. In addition, unbalanced data which I worked on and used algorithms, both oversampling and undersampling to improve the model, with clear and quick explanations.
 </p>
 
-<p><a>Access the article about this project here</a></p>
+<p><a href="https://luis-miguel-code.medium.com/how-to-deal-with-unbalanced-classes-in-machine-learning-precision-recall-oversampling-and-9a719d9bb3b0">Access the article about this project here</a></p>
 <p><a href="https://github.com/LuisMig-code/Analise-de-RH-mudanca-de-cargo-dos-cientistas-de-dados/blob/main/HR_analysis_change_of_position_of_data_scientists.ipynb"> Access the project here at GoogleColaboratory</a> </p>
 <p><a href="www.linkedin.com/in/luis-miguel-code">Access my linkedIn here</a></p>
 
